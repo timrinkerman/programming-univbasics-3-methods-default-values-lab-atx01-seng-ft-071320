@@ -7,5 +7,3 @@ def meal_choice(veg1, veg2, protien = "tofu")
   puts meal
   meal
 end
-
-puts meal_choice
